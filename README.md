@@ -47,8 +47,13 @@ Thanks
 
 4，[Jekyll Clean Theme][Jekyll-Clean-Theme-url]
 
+5，[github-markdown]
+
 [jekyll-url]: http://jekyllrb.com/
 [bootstrap-url]: http://getbootstrap.com/
 [github-url]: https://github.com/
 [Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
 [xixia-url]: http://xixia.info/
+[github-markdown]: https://guides.github.com/features/mastering-markdown/
+
+
